@@ -1,0 +1,1 @@
+# Fibonacci-Search-Method-To-minimize-the-function-in-optimization-techniques
