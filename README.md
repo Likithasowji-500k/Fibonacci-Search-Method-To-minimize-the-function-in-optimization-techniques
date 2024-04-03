@@ -25,3 +25,7 @@ The input parameters required by the script are:
 ![fibonacci-output](https://github.com/Likithasowji-500k/Fibonacci-Search-Method-To-minimize-the-function-in-optimization-techniques/assets/121708442/0784d512-3a73-4ecb-9257-8105f0ccb0fd)
 ![fibonacci1-output](https://github.com/Likithasowji-500k/Fibonacci-Search-Method-To-minimize-the-function-in-optimization-techniques/assets/121708442/94e45c61-338e-41f2-a1c3-f42c9fe82099)
 ![fibonacci-output-2](https://github.com/Likithasowji-500k/Fibonacci-Search-Method-To-minimize-the-function-in-optimization-techniques/assets/121708442/09c4464b-3abc-431f-93b0-6c74e5ef8330)
+
+## Note
+- Ensure that the function to be minimized (f(x)) is correctly defined in the code.
+- The initial interval [a, b] and the number of iterations n should be provided by the user as input.
